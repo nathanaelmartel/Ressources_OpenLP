@@ -1,5 +1,5 @@
 # Ressources_OpenLP
-Pack de chants contenant les recueils suivant:
+Recueils de chants disponibles:
 
 - A toi la gloire.                                   [ATG](https://github.com/Honkey57/Ressources_OpenLP/raw/main/A_toi_la_gloire.7z)       
 - Ailes de la foi.                                   [AF](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Ailes_de_la_foi.7z)
@@ -11,3 +11,10 @@ Pack de chants contenant les recueils suivant:
 - J'aime l'Eternel - Kids                            [JEMK](https://github.com/Honkey57/Ressources_OpenLP/raw/main/J_aime_L_Eternel_Kids.7z)
 - Pack de chants issue du site http://shir.fr/wiki/  [SHIR](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Shir.7z)
 - Divers chants dans le répertoire chant.            [SUP](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Suppl%C3%A9ments.7z)
+
+Récentes traduction française de la bible (Format OpenSong):
+
+- [Bible Chouraqui](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Chouraqui.zip)
+- [Bible Nouvelle édition de Genève](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Nouvelle_Edition_de_Geneve_1979.zip)
+- [Bible Segond 21](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond21.zip)
+- [Evangiles traduits par Claude Tresmontant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Tresmontant.zip)
