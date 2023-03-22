@@ -1,7 +1,7 @@
 # Ressources pour le logiciel de projection OpenLP
 
 
-Recueils de chants disponibles (format OpenLyrics)):
+Recueils de chants disponibles (format OpenLyrics):
 
 - A toi la gloire.                                   [ATG](https://github.com/Honkey57/Ressources_OpenLP/raw/main/A_toi_la_gloire.7z)       
 - Ailes de la foi.                                   [AF](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Ailes_de_la_foi.7z)
