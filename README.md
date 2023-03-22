@@ -2,7 +2,7 @@
 Ressource pour OpenLP
 Pack de chants contenant les recueils suivant:
 
-- A toi la gloire.                                   ATG       
+- A toi la gloire.                                   [ATG](https://github.com/Honkey57/Ressources_OpenLP/raw/main/A%20toi%20la%20gloire.7z)       
 - Ailes de la foi.                                   AF
 - Choeurs et cantiques.                              CC
 - Choeurs et cantiques (Edition 1977).               CCA
