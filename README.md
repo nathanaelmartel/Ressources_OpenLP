@@ -1,5 +1,4 @@
 # Ressources_OpenLP
-Ressource pour OpenLP
 Pack de chants contenant les recueils suivant:
 
 - A toi la gloire.                                   [ATG](https://github.com/Honkey57/Ressources_OpenLP/raw/main/A_toi_la_gloire.7z)       
