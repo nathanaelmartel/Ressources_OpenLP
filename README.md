@@ -1,5 +1,7 @@
-# Ressources_OpenLP
-Recueils de chants disponibles:
+# Ressources pour le logiciel de projection OpenLP
+
+
+Recueils de chants disponibles (format OpenLyrics)):
 
 - A toi la gloire.                                   [ATG](https://github.com/Honkey57/Ressources_OpenLP/raw/main/A_toi_la_gloire.7z)       
 - Ailes de la foi.                                   [AF](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Ailes_de_la_foi.7z)
@@ -11,6 +13,7 @@ Recueils de chants disponibles:
 - J'aime l'Eternel - Kids                            [JEMK](https://github.com/Honkey57/Ressources_OpenLP/raw/main/J_aime_L_Eternel_Kids.7z)
 - Pack de chants issue du site http://shir.fr/wiki/  [SHIR](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Shir.7z)
 - Divers chants dans le répertoire chant.            [SUP](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Suppl%C3%A9ments.7z)
+
 
 Récentes traduction française de la bible (Format OpenSong):
 
