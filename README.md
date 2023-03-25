@@ -17,8 +17,10 @@ Recueils de chants disponibles (format OpenLyrics):
 
 Récentes traductions françaises de la bible (Format OpenSong):
 
+
 - [Bible Louis Segond 1910](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond.zip)
 - [Bible Chouraqui](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Chouraqui.zip)
+- [Bible en Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_en_Fran%C3%A7ais_Courant.zip)
 - [Bible Nouvelle version Segond révisée, dite à la Colombe](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_La_Colombe.zip)
 - [Bible Nouvelle édition de Genève](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Nouvelle_Edition_de_Geneve_1979.zip)
 - [Bible Segond 21](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond21.zip)
