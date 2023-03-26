@@ -26,6 +26,7 @@ Récentes traductions françaises de la bible (Format OpenSong):
 - [Bible Segond 21](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond21.zip)
 - [Evangiles traduits par Claude Tresmontant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Tresmontant.zip)
 - [Nouvelle Bible Segond](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Bible_Segond.zip)
+- [Nouvelle édition de Genève](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_%C3%A9dition_de_Gen%C3%A8ve.zip)
 - [Nouveau Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Francais_Courant.zip)
 - [Parole De Vie](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Parole_de_Vie.zip)
 - [Traduction œcuménique de la Bible](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Traduction_oecum%C3%A9nique_de_la_bible.zip)
