@@ -18,12 +18,14 @@ Recueils de chants disponibles (format OpenLyrics):
 Récentes traductions françaises de la bible (Format OpenSong):
 
 
-- [Bible Louis Segond 1910](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond.zip)
+- [Bible Louis Segond 1910](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond_1910.zip)
 - [Bible Chouraqui](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Chouraqui.zip)
-- [Bible en Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_en_Fran%C3%A7ais_Courant.zip)
-- [Bible Nouvelle version Segond révisée, dite à la Colombe](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_La_Colombe.zip)
+- [Bible Nouvelle version Segond révisée, dite à la Colombe, 1978](https://github.com/Honkey57/Ressources_OpenLP/raw/main/La_Colombe.zip)
+- [Bible en Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_en_Francais_Courant.zip)
 - [Bible Nouvelle édition de Genève](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Nouvelle_Edition_de_Geneve_1979.zip)
 - [Bible Segond 21](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond21.zip)
 - [Evangiles traduits par Claude Tresmontant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Tresmontant.zip)
 - [Nouvelle Bible Segond](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Bible_Segond.zip)
+- [Nouveau Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Francais_Courant.zip)
+- [Parole De Vie](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Parole_de_Vie.zip)
 - [Traduction œcuménique de la Bible](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Traduction_oecum%C3%A9nique_de_la_bible.zip)
