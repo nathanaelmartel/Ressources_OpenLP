@@ -34,5 +34,4 @@ Pour accéder au répertoire de données dans OpenLP, allez dans "Outils->Ouvrir
 - [Bible Segond 21](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond_21.zip)
 - [Evangiles traduits par Claude Tresmontant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Evangiles_Tresmontant_Claude.zip)
 - [Nouvelle Bible Segond](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Bible_Segond.zip)
-- [Nouvelle édition de Genève](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_edition_de_Geneve.zip)
 - [Traduction œcuménique de la Bible (Sans les livres apocryphes)](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Traduction_oecumenique_de_la_bible.zip)
