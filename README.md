@@ -15,7 +15,7 @@
 - Divers chants dans le répertoire chant.            [SUP](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Suppl%C3%A9ments.7z)
 
 
-### Récentes traductions françaises de la bible [Format OpenSong](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles_recentes_OpenSong.zip))
+### Récentes traductions françaises de la bible au [Format OpenSong](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles_recentes_OpenSong.zip))
 
 ### Récentes traductions françaises de la bible (Format OpenLP):
 
