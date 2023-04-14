@@ -1,7 +1,7 @@
 # Ressources pour le logiciel de projection OpenLP
 
 
-* Recueils de chants disponibles (format OpenLyrics):
+## Recueils de chants disponibles (format OpenLyrics):
 
 - A toi la gloire.                                   [ATG](https://github.com/Honkey57/Ressources_OpenLP/raw/main/A_toi_la_gloire.7z)       
 - Ailes de la foi.                                   [AF](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Ailes_de_la_foi.7z)
@@ -15,9 +15,9 @@
 - Divers chants dans le répertoire chant.            [SUP](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Suppl%C3%A9ments.7z)
 
 
-Récentes traductions françaises de la bible [Format OpenSong](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles_recentes_OpenSong.zip))
+## Récentes traductions françaises de la bible [Format OpenSong](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles_recentes_OpenSong.zip))
 
-Récentes traductions françaises de la bible (Format OpenLP):
+## Récentes traductions françaises de la bible (Format OpenLP):
 
 Bibles au format sqlite, décompressez le fichier zippé dans le répertoire bibles situé dans le répertoire de données.
 Pour accéder au répertoire de données dans OpenLP, allez dans "Outils->Ouvrir le répertoire de données". 
