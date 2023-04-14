@@ -19,8 +19,8 @@
 
 ### Récentes traductions françaises de la bible (Format OpenLP):
 
-Bibles au format sqlite, décompressez le fichier zippé dans le répertoire bibles situé dans le répertoire de données.
-Pour accéder au répertoire de données dans OpenLP, allez dans "Outils->Ouvrir le répertoire de données". 
+**Bibles au format sqlite, décompressez le fichier zippé dans le répertoire bibles situé dans le répertoire de données.
+Pour accéder au répertoire de données dans OpenLP, allez dans "Outils->Ouvrir le répertoire de données".** 
 
 
 - [Bible Chouraqui](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Chouraqui.zip)
