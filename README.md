@@ -20,7 +20,8 @@ Récentes traductions françaises de la bible [Format OpenSong](https://github.c
 Récentes traductions françaises de la bible (Format OpenLP):
 
 Bibles au format sqlite, décompressez le fichier zippé dans le répertoire bibles situé dans le répertoire de données.
-Pour accéder au répertoire de données, dans OpenLP, dans le menu Outils sélectionnez "Ouvrir le répertoire de données". 
+Pour accéder au répertoire de données:
+dans le logiciel OpenLP, dans le menu Outils sélectionnez "Ouvrir le répertoire de données". 
 
 
 - [Bible Chouraqui]()
