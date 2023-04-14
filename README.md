@@ -23,14 +23,14 @@
 *Bibles au format sqlite, décompressez le fichier zippé dans le répertoire bibles situé dans le répertoire de données.
 Pour accéder au répertoire de données dans OpenLP, allez dans "Outils->Ouvrir le répertoire de données".* 
 
-
 - [Bible Chouraqui](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Chouraqui.zip)
 - [Bible du Semeur](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_du_Semeur.zip)
 - [Bible en Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_en_Francais_Courant.zip)
 - [Bible Louis Segond 1910](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond_1910.zip)
 - [Bible Nouvelle version Segond révisée, dite à la Colombe, 1978](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_La_Colombe.zip)
-- [Bible Nouvelle édition de Genève](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_edition_de_Geneve.zip)
-- [Bible Nouvelle Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Bible_Segond.zip)
+- [Bible Nouvelle édition de Genève 1979](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_edition_de_Geneve.zip)
+- [Bible Nouvelle en Français Courant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Francais_Courant.zip)
+- [Bible Parole de Vie](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Parole_de_Vie.zip)
 - [Bible Segond 21](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Segond_21.zip)
 - [Evangiles traduits par Claude Tresmontant](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Evangiles_Tresmontant_Claude.zip)
 - [Nouvelle Bible Segond](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Nouvelle_Bible_Segond.zip)
