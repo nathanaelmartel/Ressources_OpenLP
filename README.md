@@ -18,6 +18,7 @@ Recueils de chants disponibles (format OpenLyrics):
 Récentes traductions françaises de la bible [Format OpenSong](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles_recentes_OpenSong.zip))
 
 Récentes traductions françaises de la bible (Format OpenLP):
+
 Bibles au format sqlite, décompressez le fichier zippé dans le répertoire bibles situé dans le répertoire de données.
 Pour accéder au répertoire de données, dans OpenLP, dans le menu Outils sélectionnez "Ouvrir le répertoire de données". 
 
