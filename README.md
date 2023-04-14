@@ -38,11 +38,12 @@ Pour accéder au répertoire de données dans OpenLP, allez dans "Outils->Ouvrir
 
 ## Informations concernant les bibles
 
-Il peut arriver dans certains cas qu'il y un trou entre deux versets, ce qui fait penser à des versets manquants, ce n'est pas le cas.
-Le trou est vient du fait que plusieurs versets ont étaint réunies dans un seul verset.
+Il peut arriver dans certains cas qu'il y ai un trou entre deux versets, ce qui fait penser à des passages manquants, ce n'est pas le cas.
+Le trou est dû au fait que plusieurs versets ont étaint réunies dans un seul verset. 
 
-*Par exemple: Si il y a un trou entre le verset 6 et le verset 15 et que vous cherchez le 9, le texte de ce verset sera contenu dans le verser 6.
-il est donc préférables dans la recherche d'importer tout le chapitre dans le service*
+*Par exemple: Si il y a un trou entre le verset 6 et 15 et que vous recherchez le 9, le texte de ce passage sera contenu dans le verser numéro 6.
+il est donc préférables dans la recherche d'importer tout le chapitre dans le service.*
+*Les bibles Chouraqui, Nouvelle éditions de Genève et les évangiles de Claude Tresmontant n'ont pas ce problème de trou entre deux passages*
 
 *Pour la bible Segond 1910, elle pas récente et est facilement disponible sur internet, c'est la même mais sans les versets entre parenthèses.
 Les versets sont disposés da façon à correspondre aux indications misent entre parenthèses, ce qui à permis de supprimer ces dernières et cela vous éviteras de tomber sur le mauvais passage bibliques.*
