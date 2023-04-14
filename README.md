@@ -15,7 +15,7 @@ Recueils de chants disponibles (format OpenLyrics):
 - Divers chants dans le répertoire chant.            [SUP](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Suppl%C3%A9ments.7z)
 
 
-Récentes traductions françaises de la bible (Format OpenSong):
+Récentes traductions françaises de la bible [Format OpenSong](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles_recentes_OpenSong.zip)):
 
 
 - [Bible Chouraqui](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bible_Chouraqui.zip)
