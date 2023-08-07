@@ -18,6 +18,8 @@
 
 #### Bibles au format Sword, compatible [OpenLP](https://openlp.org/) , [AndBible](https://f-droid.org/fr/packages/net.bible.android.activity/) , [Xiphos](https://xiphos.org/) et [Bibletime](https://bibletime.info/) .
 
+[Lien de téléchargement](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles.zip)
+
 - Bible Chouraqui
 - Bible du Semeur
 - Bible en Français Courant
