@@ -26,7 +26,7 @@
 - Bible Louis Segond 1910
 - Bible Nouvelle version Segond révisée, dite à la Colombe, 1978
 - Bible Nouvelle édition de Genève 1979
-- Bible Nouvelle en Français Courant
+- Bible Nouvelle Français Courant
 - Bible Parole de Vie
 - Bible Segond 21
 - Bible Traduction Officiel Liturgique (Sans les livres apocryphes)
