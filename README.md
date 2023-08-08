@@ -16,7 +16,7 @@
 
 ### Récentes traductions françaises de la bible (Format Sword):
 
-#### Bibles au format Sword, compatible [OpenLP](https://openlp.org/) , [AndBible](https://f-droid.org/fr/packages/net.bible.android.activity/) , [Xiphos](https://xiphos.org/) et [Bibletime](https://bibletime.info/) .
+#### Bibles au format Sword, compatible [OpenLP](https://openlp.org/) , [AndBible: La Bible](https://f-droid.org/fr/packages/net.bible.android.activity/) , [Xiphos](https://xiphos.org/) et [Bibletime](https://bibletime.info/) .
 
 [Lien de téléchargement](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles.zip)
 
