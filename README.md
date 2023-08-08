@@ -31,6 +31,7 @@
 - Bible Segond 21
 - Bible Traduction Officiel Liturgique (Sans les livres apocryphes)
 - Bible de Yéhoshoua Ha Mashiah (BYM)
+- Évangiles traduis par Claude Tresmontant
 - Nouvelle Bible Segond
 - Traduction œcuménique de la Bible (Sans les livres apocryphes)
 
