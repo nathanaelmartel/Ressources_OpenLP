@@ -21,18 +21,20 @@
 [Lien de téléchargement](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles.zip)
 
 - Bible Chouraqui
-- Bible du Semeur
-- Bible en Français Courant
+- Bible du Semeur ¤
+- Bible en Français Courant ¤
 - Bible Louis Segond 1910
 - Bible Nouvelle version Segond révisée, dite à la Colombe, 1978
 - Bible Nouvelle édition de Genève 1979
-- Bible Nouvelle Français Courant
-- Bible Parole de Vie
+- Bible Nouvelle Français Courant ¤
+- Bible Parole de Vie ¤
 - Bible Segond 21
 - Bible Traduction Officiel Liturgique (Sans les livres apocryphes)
 - Bible de Yéhoshoua Ha Mashiah (BYM)
-- Cosmogonie de Moïse (Antoine Fabre d'Olivet)
-- Évangiles traduis par Claude Tresmontant
+- Cosmogonie de Moïse (Antoine Fabre d'Olivet) ¤
+- Évangiles traduis par Claude Tresmontant ¤
 - Nouvelle Bible Segond
 - Traduction œcuménique de la Bible (Sans les livres apocryphes)
+
+  *¤ Ne conviennent pour la projection*
 
