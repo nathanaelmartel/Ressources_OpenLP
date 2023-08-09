@@ -20,19 +20,19 @@
 
 [Lien de téléchargement](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Bibles.zip)
 
-- Bible Chouraqui
-- Bible du Semeur
-- Bible en Français Courant
-- Bible Louis Segond 1910
-- Bible Nouvelle version Segond révisée, dite à la Colombe, 1978
-- Bible Nouvelle édition de Genève 1979
-- Bible Nouvelle Français Courant
-- Bible Parole de Vie
-- Bible Segond 21
-- Bible Traduction Officiel Liturgique (Sans les livres apocryphes)
+- Bible Chouraqui (CHU)
+- Bible du Semeur (BDS)
+- Bible en Français Courant (BFC)
+- Bible Louis Segond 1910 (LSG1910)
+- Bible Nouvelle version Segond révisée, dite à la Colombe, 1978 (La Colombe)
+- Bible Nouvelle édition de Genève 1979 (NEG)
+- Bible Nouvelle Français Courant (NFC)
+- Bible Parole de Vie (PDV)
+- Bible Segond 21 (S21)
+- Bible Traduction Officiel Liturgique (Liturgique)
 - Bible de Yéhoshoua Ha Mashiah (BYM)
 - Cosmogonie de Moïse (Antoine Fabre d'Olivet)
 - Évangiles traduis par Claude Tresmontant
-- Nouvelle Bible Segond
-- Traduction œcuménique de la Bible (Sans les livres apocryphes)
+- Nouvelle Bible Segond (NBS)
+- Traduction œcuménique de la Bible (TOB)
 
