@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-03-28T21:24:56">
+  <properties>
+    <titles>
+      <title>Messe de St François Xavier - Kyrie</title>
+    </titles>
+    <copyright>Chemin Neuf</copyright>
+    <authors>
+      <author>Communauté Chemin Neuf</author>
+    </authors>
+    <songbooks>
+      <songbook name="Chemin Neuf"/>
+    </songbooks>
+    <themes>
+      <theme>Kyrie</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pardonne-moi, Seigneur, <br/>j’ai renié ton Nom,<br/>Pardonne-moi, Seigneur, <br/>j’ai quitté ta maison.<br/><p style="page-break-after: always;"/><br/>J’ai voulu posséder <br/>sans attendre le don,<br/>Pardonne-moi <br/>et purifie mon cœur !</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kyrie eleison, <br/>Kyrie eleison. (bis)</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Pardonne-moi, Seigneur, <br/>j’ai suivi d’autres dieux,<br/>Pardonne-moi, Seigneur, <br/>j’ai détourné les yeux.<br/><p style="page-break-after: always;"/><br/>J’ai choisi loin de toi <br/>la richesse et l’honneur,<br/>Pardonne-moi <br/>et purifie mon cœur !</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Christe eleison, <br/>Christe eleison. (bis)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pardonne-moi, <br/>Seigneur j’ai n’ai pas su aimer,<br/>Pardonne-moi, <br/>Seigneur je me suis dérobé.<br/><p style="page-break-after: always;"/><br/>Je ne suis pas resté <br/>le gardien de mon frère,<br/>Pardonne-moi <br/>et purifie mon cœur !</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Kyrie eleison, <br/>Kyrie eleison. (bis)</lines>
+    </verse>
+  </lyrics>
+</song>

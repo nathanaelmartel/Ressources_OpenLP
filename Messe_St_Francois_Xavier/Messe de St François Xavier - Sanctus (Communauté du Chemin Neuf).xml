@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-17T16:55:58">
+  <properties>
+    <titles>
+      <title>Messe de St François Xavier - Sanctus</title>
+    </titles>
+    <authors>
+      <author>Communauté du Chemin Neuf</author>
+    </authors>
+    <songbooks>
+      <songbook name="Chemin Neuf"/>
+    </songbooks>
+    <themes>
+      <theme>sanctus</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sanctus, sanctus, <br/>sanctus, sanctus. (bis) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saint est le Seigneur, <br/>Saint est le Seigneur,<br/>Dieu de l’univers, <br/>Dieu de l’univers ! (bis)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Le ciel et la terre <br/>sont remplis de ta gloire ! <br/>Hosanna, hosanna <br/>au plus haut des cieux ! (bis)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Saint est le Seigneur, <br/>Saint est le Seigneur,<br/>Dieu de l’univers, <br/>Dieu de l’univers ! (bis) </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Béni soit Celui <br/>qui vient au nom du Seigneur, <br/>Hosanna, hosanna <br/>au plus haut des cieux ! (bis)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Saint est le Seigneur, <br/>Saint est le Seigneur,  <br/>Dieu de l’univers, <br/>Dieu de l’univers ! (bis) </lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sanctus, sanctus, <br/>sanctus, sanctus (bis)<br/>Sanctus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-17T16:56:16">
+  <properties>
+    <titles>
+      <title>Messe de St François Xavier - Anamnèse</title>
+    </titles>
+    <authors>
+      <author>Communauté du Chemin Neuf</author>
+    </authors>
+    <songbooks>
+      <songbook name="Chemin Neuf"/>
+    </songbooks>
+    <themes>
+      <theme>Anamnèse</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloire à toi qui étais mort, <br/>Gloire à toi qui est vivant,<br/>Notre sauveur et notre Dieu,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viens Seigneur Jésus ! (bis)<br/>Amen ! Amen ! Amen !</lines>
+    </verse>
+  </lyrics>
+</song>

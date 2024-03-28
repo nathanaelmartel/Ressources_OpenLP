@@ -14,6 +14,7 @@
 - Pack de chants issue du site http://shir.fr/wiki/  [SHIR](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Shir.7z)
 - Divers chants dans le répertoire chant.            [SUP](https://github.com/Honkey57/Ressources_OpenLP/raw/main/Suppl%C3%A9ments.7z)
 - Messe Soleil des Nations								[SOLNAT](https://github.com/nathanaelmartel/Ressources_OpenLP/raw/main/Messe_Soleil_des_Nations.7z)
+- Messe Saint François Xavier							[XAV](https://github.com/nathanaelmartel/Ressources_OpenLP/raw/main/Messe_St_Francois_Xavier.7z)
 
 ### Récentes traductions françaises de la bible (Format Sword):
 
