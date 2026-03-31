@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T18:55:50">
+  <properties>
+    <titles>
+      <title>Messe du Frat — Sanctus</title>
+    </titles>
+    <authors>
+      <author>Benjamin et Thomas Pouzin</author>
+      <author>Glorious</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Saint! Saint! Saint le Seigneur! <br/>Le Dieu de l’univers.<br/>(x4)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Le ciel et la terre sont remplis de ta gloire,<br/>Hosanna Hosanna au plus haut des Cieux, <br/>Hosanna au plus haut des Cieux<br/>Hosanna Hosanna au plus haut des Cieux, <br/>Hosanna au plus haut des Cieux</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bénis soit celui qui vient au nom du Seigneur,<br/>Hosanna Hosanna au plus haut des Cieux, <br/>Hosanna au plus haut des Cieux<br/>Hosanna Hosanna au plus haut des Cieux, <br/>Hosanna au plus haut des Cieux</lines>
+    </verse>
+  </lyrics>
+</song>

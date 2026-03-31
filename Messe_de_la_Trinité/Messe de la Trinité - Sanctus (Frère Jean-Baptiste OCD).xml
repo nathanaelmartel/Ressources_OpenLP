@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T18:20:24">
+  <properties>
+    <titles>
+      <title>Messe de la Trinité - Sanctus</title>
+    </titles>
+    <authors>
+      <author>Frère Jean-Baptiste OCD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Saint, Saint, Saint le Seigneur, <br/>le Dieu de l’univers.<br/><p style="page-break-after: always;"/><br/>Saint, Saint, Saint le Seigneur, <br/>le Dieu de l’univers.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ciel et terre sont remplis <br/>de ta splendeur et de ta gloire.<br/><p style="page-break-after: always;"/><br/>Hosanna <br/>au plus haut des cieux !<br/>Hosanna <br/>au plus haut des cieux !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Béni soit celui qui vient <br/>au nom du Seigneur.<br/><p style="page-break-after: always;"/><br/>Hosanna <br/>au plus haut des cieux !<br/>Hosanna <br/>au plus haut des cieux !</lines>
+    </verse>
+  </lyrics>
+</song>

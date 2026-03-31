@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-11-22T16:46:42">
+  <properties>
+    <titles>
+      <title>Messe de la grâce - Gloire à Dieu (gloria)</title>
+    </titles>
+    <authors>
+      <author>Glorious</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloire à Dieu au plus haut des cieux<br/>Gloire à Dieu au plus haut des cieux<br/>Paix sur Terre <br/>aux hommes qu’Il aime<br/>Aux hommes qu’Il aime (bis)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Et paix sur la terre, <br/>aux hommes qu’Il aime,<br/><p style="page-break-after: always;"/><br/>Nous te louons, nous te bénissons,          <br/>Nous t’adorons, nous te glorifions, <br/>Nous te rendons grâce <br/>pour ton immense gloire</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seigneur Dieu, le Roi du ciel,<br/>Dieu le Père tout puissant.          <br/>Jésus Christ, Seigneur fils unique<br/>Agneau de Dieu, le Fils du Père.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Toi qui enlèves, <br/>le péché du monde, <br/>Prends pitié de nous, <br/>reçois nos prières  <br/><p style="page-break-after: always;"/><br/>Toi qui es assis, <br/>à droite du Père,<br/>Prends pitié de nous, <br/>reçois nos prières</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Car Toi seul es saint, <br/>Toi seul es Seigneur,<br/>Tu es le Très-Haut, <br/>Jésus-Christ, <br/>Dans l’unité du Saint-Esprit, <br/>Et dans la gloire de Dieu le Père.</lines>
+    </verse>
+  </lyrics>
+</song>

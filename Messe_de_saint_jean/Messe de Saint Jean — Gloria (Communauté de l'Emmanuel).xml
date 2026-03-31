@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-31T08:13:13">
+  <properties>
+    <titles>
+      <title>Messe de Saint Jean — Gloria</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author>Communauté de l'Emmanuel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gloria, gloria, in excelsis Deo.<br/>Gloria, gloria, in excelsis Deo.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Et paix sur la terre, <br/>aux hommes qu’il aime !<br/><p style="page-break-after: always;"/><br/>Nous Te louons, <br/>nous Te bénissons, <br/>nous T’adorons, <br/>nous Te glorifions, <br/><p style="page-break-after: always;"/><br/>Nous Te rendons grâce <br/>pour Ton immense gloire, <br/><p style="page-break-after: always;"/><br/>Seigneur Dieu, <br/>Roi du ciel, <br/>Dieu le Père tout puissant.<br/><p style="page-break-after: always;"/><br/>Seigneur, Fils unique, Jésus Christ, <br/>Seigneur Dieu, Agneau de Dieu, <br/>le Fils du Père ; <br/><p style="page-break-after: always;"/><br/>Toi qui enlèves le péché du monde, <br/>prends pitié de nous ;<br/>Toi qui enlèves le péché du monde, <br/>reçois notre prière ; <br/><p style="page-break-after: always;"/><br/>Toi qui es assis à la droite du Père,<br/>prends pitié de nous.<br/><p style="page-break-after: always;"/><br/>Car Toi seul es Saint, <br/>Toi seul es Seigneur, <br/>Toi seul es le Très-Haut, <br/><p style="page-break-after: always;"/><br/>Jésus Christ, <br/>avec le Saint-Esprit, <br/>dans la gloire de Dieu le Père. <br/>Amen !</lines>
+    </verse>
+  </lyrics>
+</song>

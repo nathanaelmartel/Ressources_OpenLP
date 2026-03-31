@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T18:20:24">
+  <properties>
+    <titles>
+      <title>Messe de la Trinité - Agnus</title>
+    </titles>
+    <authors>
+      <author>Frère Jean-Baptiste OCD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Agneau de Dieu, <br/>envoyé par le Père,<br/>Tu nous sauves du péché,<br/><p style="page-break-after: always;"/><br/>Prends pitié de nous, <br/>Seigneur,<br/>Prends pitié de nous, <br/>Seigneur.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Agneau de Dieu, <br/>emportant notre mort,<br/>Tu nous donnes ta vie,<br/><p style="page-break-after: always;"/><br/>Prends pitié de nous, <br/>Seigneur,<br/>Prends pitié de nous, <br/>Seigneur.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Agneau de Dieu, <br/>dans l’Amour de l’Esprit,<br/>Tu apaises notre cœur,<br/><p style="page-break-after: always;"/><br/>Donne-nous la paix, <br/>Seigneur,<br/>Donne-nous la paix, <br/>Seigneur.</lines>
+    </verse>
+  </lyrics>
+</song>

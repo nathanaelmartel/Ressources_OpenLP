@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T18:20:23">
+  <properties>
+    <titles>
+      <title>Messe de la Trinité - Kyrie</title>
+    </titles>
+    <authors>
+      <author>Frère Jean-Baptiste OCD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seigneur Jésus, <br/>Parole éternelle du Père,<br/>Tu viens illuminer <br/>les ténèbres de nos cœurs, <br/>prends pitié !</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Seigneur, <br/>prends pitié de nous,<br/>Seigneur, <br/>prends pitié de nous,<br/>Seigneur, <br/>prends pitié.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Christ, <br/>Verbe fait chair de notre chair,<br/>Tu veux nous donner part <br/>à ta divinité, <br/>prends pitié !</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O Christ, <br/>prends pitié de nous,<br/>O Christ, <br/>prends pitié de nous,<br/>O Christ, <br/>prends pitié.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seigneur, <br/>élevé dans la gloire,<br/>Tu répands en nos cœurs <br/>l’eau vive de l’Esprit, <br/>prends pitié !</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Seigneur, <br/>prends pitié de nous,<br/>Seigneur, <br/>prends pitié de nous,<br/>Seigneur, <br/>prends pitié.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-09-23T18:27:27">
+  <properties>
+    <titles>
+      <title>Messe soleil des nations - Alléluia</title>
+    </titles>
+    <authors>
+      <author>Marcel Dazin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Alléluia, Alléluia, Alléluia, Alléluia !<br/>Alléluia, Alléluia, Alléluia, Alléluia !</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Loué sois-tu pour ta Parole,<br/>Bonne Nouvelle en notre temps.<br/>Loué sois-tu pour ta Parole.<br/>Christ et Seigneur, tu es présent.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Loué sois-tu pour ta Parole,<br/>Clarté du monde dans sa nuit.<br/>Loué sois-tu pour ta Parole,<br/>Comme une lampe dans nos vies. </lines>
+    </verse>
+  </lyrics>
+</song>

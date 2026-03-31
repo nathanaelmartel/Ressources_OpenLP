@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-31T08:13:27">
+  <properties>
+    <titles>
+      <title>Messe de Saint Jean — Sanctus</title>
+    </titles>
+    <authors>
+      <author>Communauté de l'Emmanuel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sanctus, Sanctus, Sanctus !<br/>Dominus Deus Sabaoth !<br/>Sanctus, Sanctus, Sanctus !<br/>Deus Sabaoth !</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pleni sunt caeli et terra gloria tua.<br/>Hosanna, hosanna, hosanna,<br/>In excelsis Deo !<br/>Hosanna, hosanna, hosanna,<br/>In excelsis !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Benedictus qui venit in nomini Domini !<br/>Hosanna, hosanna, hosanna,<br/>In excelsis Deo !<br/>Hosanna, hosanna, hosanna,<br/>In excelsis !</lines>
+    </verse>
+  </lyrics>
+</song>

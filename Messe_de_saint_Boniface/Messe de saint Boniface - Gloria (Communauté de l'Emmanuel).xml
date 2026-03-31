@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-31T08:23:49">
+  <properties>
+    <titles>
+      <title>Messe de saint Boniface - Gloria</title>
+    </titles>
+    <authors>
+      <author>Communauté de l'Emmanuel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gloria in excelsis Deo ! <br/>Gloria Deo Domino !</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Et paix sur la terre <br/>aux hommes qu’il aime.<br/>Nous te louons, nous te bénissons,<br/><p style="page-break-after: always;"/><br/>Nous t’adorons, nous te glorifions,<br/>Nous te rendons grâce <br/>pour ton immense gloire,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seigneur Dieu, Roi du Ciel,<br/>Dieu le Père tout -puissant.<br/><p style="page-break-after: always;"/><br/>Seigneur Fils unique, Jésus-Christ,<br/>Seigneur Dieu, <br/>Agneau de Dieu, <br/>le Fils du Père,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Toi qui enlèves <br/>les péchés du monde,<br/>Prends pitié de nous ;<br/><p style="page-break-after: always;"/><br/>Toi qui enlèves <br/>les péchés du monde,<br/>Reçois notre prière,<br/>Toi qui es assis à la droite du Père,<br/>Prends pitié de nous ;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Car toi seul es Saint, <br/>Toi seul es Seigneur,<br/>Toi seul es le Très-Haut, <br/>Jésus-Christ,<br/>Avec le Saint Esprit,<br/>Dans la gloire de Dieu le Père. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

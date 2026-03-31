@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T18:55:46">
+  <properties>
+    <titles>
+      <title>Messe du Frat — Gloire à Dieu</title>
+    </titles>
+    <authors>
+      <author>Benjamin et Thomas Pouzin</author>
+      <author>Glorious</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gloire à Dieu, <br/>Gloire à Dieu <br/>au plus haut des cieux.<br/><p style="page-break-after: always;"/><br/>Gloire à Dieu, <br/>Gloire à Dieu <br/>au plus haut des cieux.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Et paix sur la terre aux hommes qu'il aime.<br/>Nous te louons, nous te bénissons,<br/>nous t’adorons nous te glorifions,<br/>Nous te rendons grâce<br/>pour ton immense Gloire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seigneur Dieu, Roi du ciel,<br/>Dieu le Père tout puissant,<br/>Seigneur fils unique, Jésus Christ,<br/>Seigneur Dieu, Agneau de Dieu<br/>le Fils du Père.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Toi qui enlèves le péché du monde,<br/>prends pitié de nous,<br/>Toi qui enlèves le péché du monde,<br/>reçois notre prière;<br/>Toi qui es assis à la droite u Père,<br/>prends pitié de nous,  </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Car toi seul es Saint,<br/>Toi seul es Seigneur,<br/>Toi seul es le très haut, Jésus Christ,<br/>dans l'unité du Saint Esprit<br/>et dans la gloire de Dieu le Père. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

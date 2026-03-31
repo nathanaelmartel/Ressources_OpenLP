@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T18:20:24">
+  <properties>
+    <titles>
+      <title>Messe de la Trinité - Alléluia</title>
+    </titles>
+    <authors>
+      <author>Fr Jean Baptiste OCD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alléluia Alléluia,<br/>Alléluia Alléluia,<br/>Alléluia Alléluia,<br/>Alléluia Alléluia,</lines>
+    </verse>
+  </lyrics>
+</song>
